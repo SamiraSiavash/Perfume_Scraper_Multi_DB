@@ -169,7 +169,7 @@ It finds all brand links and stores them in the `Brands` table.
 ```markdown
 ![Brands Collection](assets/mongodb_brands.png)
 ```
-<img width="1022" height="592" alt="mongodb_brands" src="https://github.com/user-attachments/assets/2e021a3c-351d-4699-8bdd-7f8f6930fe08" />
+<img width="1308" height="592" alt="mongodb_brands" src="https://github.com/user-attachments/assets/69a99e3b-5900-49d1-bc12-b20f8e2ad35a" />
 
 ```markdown
 ![Master Collection](assets/mongodb_master.png)
