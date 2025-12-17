@@ -126,6 +126,36 @@ It finds all brand links and stores them in the `Brands` table.
 
 ---
 
+## ▶️ How to Run
+
+1. Clone the repository:
+
+```
+git clone https://github.com/SamiraSiavash/Perfume_Scraper_Multi_DB.git
+cd Perfume_Scraper_Multi_DB
+```
+
+2. Install dependencies:
+
+```
+pip install -r requirements.txt
+```
+
+3. Run one of the scrapers:
+
+```
+Scraper_MongoDB.py
+Scraper_MongoDB_Safe.py
+Scraper_PostgreSQL.py
+Scraper_PostgreSQL_Safe.py
+Scraper_SQL.py
+Scraper_SQL_Safe.py
+Scraper_SQLite.py
+Scraper_SQLite_Safe.py
+```
+
+---
+
 ## 🖼 Screenshots
 ### SQLite
 ```markdown
