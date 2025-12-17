@@ -101,6 +101,7 @@ Perfume_Scraper/
 ├── Scraper_SQLite.py
 ├── Scraper_SQLite_Safe.py
 ├── README.md
+├── requirements.txt
 ```
 
 ---
